@@ -36,6 +36,10 @@ public class Simulator {
         exitCarQueue = new CarQueue();
         simulatorView = new SimulatorView(3, 6, 30);
     }
+    
+    public static void main(String[] args) {
+		
+	}
 
     public void run() {
         for (int i = 0; i < 10000; i++) {
