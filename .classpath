@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Life/src"/>
+	<classpathentry kind="src" path="MVCDynamicModelNoThread/src"/>
+	<classpathentry kind="src" path="MVCDynamicModelThread/src"/>
+	<classpathentry kind="src" path="MVCDynamicModelThreadGeneralized/src"/>
+	<classpathentry kind="src" path="MVCStaticModel/src"/>
+	<classpathentry kind="src" path="Parkeersimulator/src"/>
+	<classpathentry kind="output" path="Life/bin"/>
+</classpath>
